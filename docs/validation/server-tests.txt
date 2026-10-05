@@ -1,0 +1,18 @@
+✔ validação rejeita valores negativos, datas inválidas e registros incompletos (2.37497ms)
+✔ saúde e captura autorizada funcionam (38.77643ms)
+✔ credencial incorreta bloqueia chamada upstream (8.103471ms)
+✔ entrada inválida e excesso de tamanho são rejeitados (13.044202ms)
+✔ CORS aceita origem local e bloqueia origem externa (11.851184ms)
+✔ falha da OpenAI não expõe chave nem detalhes internos (5.020478ms)
+✔ JSON inválido do modelo é tratado (4.775037ms)
+✔ envia modelo configurado, data e store=false; não envia histórico (10.170687ms)
+✔ limite protege contra excesso de solicitações (28.773906ms)
+✔ servidor sem configuração retorna erro orientativo (4.738873ms)
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 218.318129
