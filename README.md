@@ -1,5 +1,7 @@
 # Dia em Ordem — Flutter
 
+Francisco Eduardo Barros Tangerino, 25002174
+
 Aplicativo mobile em português para organizar tarefas, registros financeiros e sessões de foco de um pequeno empreendedor. Projeto Integrado de Desenvolvimento Mobile, com proposta de vínculo ao ODS 8 — Trabalho decente e crescimento econômico.
 
 ## Comece aqui
